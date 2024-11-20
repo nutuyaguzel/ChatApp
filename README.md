@@ -21,4 +21,4 @@ Bu proje, React Native ve Firebase kullanılarak geliştirilmiş basit bir chat 
 	•	Basit ve kullanıcı dostu arayüz.
 	•	Hata mesajları ile kullanıcı geri bildirimi (örneğin, email-already-in-use hatası).
 
-    ![](chat.gif)
+    ![](https://github.com/nutuyaguzel/ChatApp/blob/main/chat.gif)
