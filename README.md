@@ -1,5 +1,5 @@
 
-#Chat Application
+# Chat Application
 
 This project is a simple chat application developed using React Native and Firebase. It allows users to sign up, log in, and chat with other users.
 
@@ -10,7 +10,7 @@ Features
 	•	Simple and User-Friendly Interface: Easy-to-navigate design.
 	•	Error Handling: Provides user feedback through error messages (e.g., email-already-in-use error).
     
-    #Chat Uygulaması
+    # Chat Uygulaması
 
 Bu proje, React Native ve Firebase kullanılarak geliştirilmiş basit bir chat uygulamasıdır. Kullanıcıların kayıt olup giriş yapmasını ve diğer kullanıcılarla mesajlaşmasını sağlar.
 
@@ -20,5 +20,7 @@ Bu proje, React Native ve Firebase kullanılarak geliştirilmiş basit bir chat 
 	•	Gerçek zamanlı mesajlaşma (Firebase Realtime Database veya Firestore kullanılabilir).
 	•	Basit ve kullanıcı dostu arayüz.
 	•	Hata mesajları ile kullanıcı geri bildirimi (örneğin, email-already-in-use hatası).
+    
+	<h1>ekran görüntüsü</h1>
 
-    ![](https://github.com/nutuyaguzel/ChatApp/blob/main/chat.gif)
+    ! [](chat.gif)
