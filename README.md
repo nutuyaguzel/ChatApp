@@ -11,4 +11,4 @@ This project is a simple chat application developed using React Native and Fireb
 
 ## Demo
 
-![Chat Application Demo](chat.gif)
+![Chat Application Demo](E.gif)
